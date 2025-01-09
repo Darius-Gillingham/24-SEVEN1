@@ -1,0 +1,15 @@
+Alright bros, this is the planning file for our project. There's a few ways we can go with this
+
+1) web app -  probably the easiest, I personally have experience with nextjs react framework and I can build a few different little applications
+for this one the big languages to know would be html, css, javascript/typescript and maybe some sql
+
+2) android native app -  usually these are developed in kotlin, sometimes java so if the team has java experience 
+which I'm guessing everyone here should this might be our best option.
+To upload a android app I know a google dev account which 25$ up front so not too bad, and then you just need to upload an apk to the store
+
+3) Apple native app - this would be developed in swift, personally I've never really used swift, I'm not an apple user and I don't know how you 
+upload anything to the apple store
+
+4) converted cross platform web app - there's sites that can convert a web app to an apk, meaning we can make an android app from a web app 
+this is a decent option
+
